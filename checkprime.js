@@ -5,9 +5,9 @@ function checkPrime(n){
         count = count + 1
     }}
     if(count<=1){
-        console.log("prime")
-    }else{
         console.log("not prime")
+    }else{
+        console.log("prime")
     }
 }
 
